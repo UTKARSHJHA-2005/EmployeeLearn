@@ -2,7 +2,7 @@
 import asyncio
 from motor.motor_asyncio import AsyncIOMotorClient
 
-MONGO_URI = ""
+MONGO_URI = "mongodb+srv://innovate:Utkarsh%4012@cluster0.v6erg.mongodb.net/?appName=Cluster0"
 DB_NAME = "skill_gap_navigator"
 
 COURSES = [
