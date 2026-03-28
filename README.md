@@ -1,5 +1,6 @@
 <pre>
 cd frontend
+npm install
 npm run dev
 </pre>
 
